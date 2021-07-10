@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resimler/kullaniciGirisi.ico</file>
+        <file>resimler/Giris.png</file>
+        <file>resimler/Cikis.png</file>
+        <file>resimler/Dialog.png</file>
+        <file>resimler/Ekle.png</file>
+        <file>resimler/KullaniciEkle.png</file>
+        <file>resimler/KullaniciDuzenle.png</file>
+        <file>resimler/KullaniciSil.png</file>
+    </qresource>
+</RCC>
